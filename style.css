@@ -1,5 +1,5 @@
 body{
-    background-color:antiquewhite;
+    background-color:skyblue;
     font-family: "Gidole",Arial, Helvetica, sans-serif;
 }
 h1{
@@ -26,4 +26,18 @@ img{
 }
 #canario{
     margin-top: 50px;
+}
+.pagina{
+    margin-left: 95.9%;
+    background-color: rgb(136, 230, 247);
+    border: 3px black solid;
+    width: fit-content;
+    font-family: "Winky Ssns",Arial, Helvetica, sans-serif;
+}
+.contenido{
+    animation: 0.5s linear MostrarContenido ;
+}
+@keyframes MostrarContenido{
+    0%{opacity: 0}
+    100%{opacity: 1;}
 }
