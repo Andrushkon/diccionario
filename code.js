@@ -34,17 +34,26 @@ const listadepalabras=[
     ["Sien","pulso",["f. Cada una de las dos partes laterales de la cabeza situadas entre la frente, la oreja y la mejilla"],"https://cdn.pixabay.com/photo/2022/06/01/05/09/happy-halloween-7234830_1280.png",59],
     ["Simbiosis","unión",["f. Biol. Asociación de individuos animales o vegetales de diferentes especies, sobre todo si los simbiontes sacan provecho de la vida en común"],"https://cdn.pixabay.com/photo/2020/09/13/07/13/anemone-5567486_1280.png",109],
     ["Templaria","religiosa",["adj. Dicho de una persona: De la orden de caballería del Temple, institución religiosa y militar fundada en el siglo XII, con la misión de asegurar los caminos de peregrinación a los Santos Lugares de Jerusalén","adj. Perteneciente o relativo a la Orden del Temple o a sus miembros. Castillo templario"],"https://cdn.pixabay.com/photo/2018/03/08/10/30/character-3208295_1280.png",124],
-    ["Temprano","adelantado",[""],"https://cdn.pixabay.com/photo/2014/04/03/10/45/businessman-311337_1280.png",108],
+    ["Temprano","adelantado",["adj. Adelantado, anticipado o que es antes del tiempo regular u ordinario","adj. Biol. Que está en una fase inicial de su desarrollo","m. Sembrado o plantío de fruto temprano. Ya es tiempo de recoger los tempranos","adv. En las primeras horas del día o de la noche y, por ext., al principio de un período determinado de tiempo. Levantarse temprano. Almorzar temprano","adv. En tiempo anterior al oportuno, convenido o acostumbrado para algún fin, o muy pronto"],"https://cdn.pixabay.com/photo/2014/04/03/10/45/businessman-311337_1280.png",108],
     ["Urgencias","prisa",["f. Cualidad de urgente","f. Necesidad o falta apremiante de lo que es menester para algún negocio","f. Caso urgente. Lo necesito para una urgencia. El hospital quedó saturado por las urgencias","f. Inmediata obligación de cumplir una ley o un precepto","f. pl. Sección de los hospitales en que se atiende a los enfermos y heridos graves que necesitan cuidados médicos inmediatos"],"https://cdn.pixabay.com/photo/2020/08/03/09/43/medical-5459653_1280.png",69],
     ["Versículos","fragmento",["m. Cada una de las breves divisiones de los capítulos de ciertos libros, y singularmente de las Sagradas Escrituras","m. Parte del responsorio que se dice en las horas canónicas, regularmente antes de la oración","m. Cada uno de los versos de un poema escrito sin rima ni metro fijo, generalmente largo y con unidad de sentido"],"https://cdn.pixabay.com/photo/2016/10/06/19/02/book-1719737_1280.png",42],
     ["Yuxtapuestos","sdyacente",["adj. Colocado junto a algo o en posición inmediata a algo."],"https://cdn.pixabay.com/photo/2012/04/18/20/29/sugar-37802_1280.png",75],
     ["Zanjamos","resolver",["tr. Echar zanjas o abrirlas para fabricar un edificio o para otro fin","tr. Remover todas las dificultades e inconvenientes que puedan impedir el arreglo y terminación de un asunto o negocio"],"https://cdn.pixabay.com/photo/2014/03/24/13/45/co-workers-294266_1280.png",55],
-    ["","",[""],"",],
-
+    ["Cacho","trozo",["m. Tf. y LP.  Nudillo de la caña de los cereales que el viento no se lleva al aventar. U. m. en pl. Al aventar se separan los cachos del trigo"],"https://cdn.pixabay.com/photo/2019/10/27/07/37/watermelon-4580910_1280.png",11],
+    ["Macho","hombre",["adj. En especies frutales no hermafroditas, se dice del árbol que solamente porta estambres. Todos los papayeros que plantó le salieron machos","adj. Se dice del frutal añoso al que nunca se le ha visto echar fruta","adj. Fv. y GC.  Dicho de una cabra o de una oveja, hermafrodita","adj. GC. Dicho del tiempo, extremadamente caluroso. Hoy el día amaneció macho","m. GC. En una huerta, acequia principal que la atraviesa longitudinalmente y de la que parten las secundarias","m. Fv., GC., Tf. y LP.  En una huerta, acequia secundaria que parte perpendicularmente de la principal"," m. Tf. En el cultivo del plátano, conjunto de pocetas comprendido entre dos acequias secundarias","m. Tf. y LP.  Conjunto de los surcos paralelos comprendidos entre dos acequias perpendiculares a la madre","m. GC. En terreno de regadío, huerta más pequeña que el llano","m. Fv., GC. y Tf.  Correa del cabestro que va por encima de la nariz del animal","m. LP. Cepillo pequeño de carpintería para acanalar","f. Fv., GC., Tf. y LP.  Mujer que por el aspecto o por los modales se parece al hombre"],"https://cdn.pixabay.com/photo/2016/04/01/10/52/blonde-1300066_1280.png",16],
+    ["Fleje","muchos",["m. Haz o fajo de cosas separables en unidades. Cogió un fleje de cañas para los tomateros","m. Gran cantidad de personas, animales o cosas. A la entrada del estadio había un fleje de policías"],"https://cdn.pixabay.com/photo/2014/04/02/16/22/people-307088_1280.png",18],
+    ["Chacho","colega",["m. y f.  Fórmula apelativa que se usa entre iguales, generalmente para llamar la atención o expresar sorpresa. Chacho, a ver si me devuelves el libro que te presté"],"https://cdn.pixabay.com/photo/2018/01/12/09/09/friends-3077835_1280.png",34],
+    ["Machango","tonto",[" m. y f.  Persona de poco seso y ridícula","m. y f.  Despectivamente, niño. Hay unos machangos chicos haciendo bulla en la calle","m. y f.  Figura humana o animal hecha de cualquier materia, como yeso o trapo, realizada sin ningún esmero","m. Figura humana o de animal hecha de cualquier materia, o pintada o dibujada, realizada sin ningún esmero. Les das un cuaderno y un lápiz, y ellos se entretienen haciendo machangos","f. Fv. Fusta, porra"],"https://cdn.pixabay.com/photo/2016/03/31/20/26/animal-1295759_1280.png",43],
+    ["Carajo","diablo",["Ser alguien un carajo (de/a) la vela. Ser una persona informal, de poca estima. A veces se dice ser alguien un carajillo (de) la vela"],"https://cdn.pixabay.com/photo/2020/12/20/22/02/smile-5848325_1280.png",53],
+    ["Callao","guijarro",[" m. Piedra alisada y redondeada por efecto del rodamiento producido por la fuerza del agua, que se encuentra en la ribera del mar y en los barrancos. Aunque esa playa está llena de callaos, es buena para el baño","m. Espacio cubierto de este tipo de piedras, especialmente cuando son grandes, a la orilla del mar. En el callao que está al otro lado de la playa hay muchas lapas"],"https://cdn.pixabay.com/photo/2018/02/06/12/47/graphics-3134639_1280.png",85],
+    ["Ñoño","dedo",["m. Dedo del pie. U. m. en pl"],"https://cdn.pixabay.com/photo/2014/03/24/17/17/foot-295320_1280.png",22],
+    ["Mojo","salsa",["m. Salsa hecha fundamentalmente con aceite y vinagre, a la que se pueden añadir especias picantes y otras hierbas aromáticas. Hay varios tipos, y su denominación depende de los ingredientes predominantes. A las lapas, cuando se asan, se les pone un mojito de perejil o de cilantro",""],"https://cdn.pixabay.com/photo/2014/04/03/00/38/spillage-308942_1280.png",134],
+    ["Glassy","sereno",["Se utiliza para describir el estado del mar cuando la superficie del agua está totalmente lisa, sin viento, con apariencia de cristal o de un espejo. Las olas rompen de forma perfecta y limpia, sin turbulencias ni espuma desordenada, lo que crea condiciones ideales para surfear"],"https://cdn.pixabay.com/photo/2013/07/12/14/32/wave-148434_1280.png",11]
 ]
 const listaelemento = document.getElementById("list")
 const listaespañola = document.getElementById("español")
 const listacanaria = document.getElementById("canario")
+const palabradeldiaelemento = document.getElementById("palabradeldia")
 for (let index = 0; index < listadepalabras.length; index++) {
     const palabra = listadepalabras[index][0];
     const sinonimo = listadepalabras[index][1];
@@ -53,9 +62,9 @@ for (let index = 0; index < listadepalabras.length; index++) {
     const pagina = listadepalabras[index][4];
     let palabraelemento = document.createElement("div");
     if (index<40){
-    palabraelemento=listaespañola.appendChild(palabraelemento)
+        palabraelemento=listaespañola.appendChild(palabraelemento)
     }else{
-    palabraelemento=listacanaria.appendChild(palabraelemento)
+        palabraelemento=listacanaria.appendChild(palabraelemento)
     }
     palabraelemento.className="palabra"
     let titulo = document.createElement("div")
@@ -64,37 +73,79 @@ for (let index = 0; index < listadepalabras.length; index++) {
     titulo.innerHTML=`<strong>${palabra}: +</strong>`
     let contenido=null
     titulo.onclick = function(){
-    if (contenido==null){
-    palabraelemento.style.borderColor = "blue"
-    contenido = document.createElement("div")
-    contenido = palabraelemento.appendChild(contenido)
-    contenido.className = "contenido"
-    titulo.innerHTML=`<strong>${palabra}: -</strong>`
-    let lista = document.createElement("ul")
-    lista = contenido.appendChild(lista)
-    for (let idx = 0; idx < definiciones.length; idx++) {
-        const definicion = definiciones[idx];
-        let newlistitem = document.createElement("li")
-        newlistitem = lista.appendChild(newlistitem)
-        newlistitem.innerText = `${idx+1}): ${definicion}`
-        
+        if(contenido==null){
+            contenido = document.createElement("div")
+            contenido = palabraelemento.appendChild(contenido)
+            contenido.className = "contenido"
+            titulo.innerHTML=`<strong>${palabra}: -</strong>`
+            let lista = document.createElement("ul")
+            lista = contenido.appendChild(lista)
+            for (let idx = 0; idx < definiciones.length; idx++) {
+                const definicion = definiciones[idx];
+                let newlistitem = document.createElement("li")
+                newlistitem = lista.appendChild(newlistitem)
+                newlistitem.innerText = `${idx+1}): ${definicion}`
+                
+            }
+            let newSin = document.createElement("div")
+            newSin = contenido.appendChild(newSin)
+            newSin.className = "sinonimo"
+            newSin.innerHTML=`<strong>Sinónimo: </strong>${sinonimo}`
+            let newImage = document.createElement("img")
+            newImage = contenido.appendChild(newImage)
+            newImage.src = imagen
+            let newSub = document.createElement("div")
+            newSub = contenido.appendChild(newSub)
+            newSub.className = "pagina"
+            newSub.innerHTML = `<strong> Pág: ${pagina}</strong>`
+        }else{
+            contenido.remove()
+            contenido = null
+            titulo.innerHTML=`<strong>${palabra}: +</strong>`
+        }
     }
-    let newSin = document.createElement("div")
-    newSin = contenido.appendChild(newSin)
-    newSin.className = "sinonimo"
-    newSin.innerHTML=`<strong>Sinónimo: </strong>${sinonimo}`
-    let newImage = document.createElement("img")
-    newImage = contenido.appendChild(newImage)
-    newImage.src = imagen
-    let newSub = document.createElement("div")
-    newSub = contenido.appendChild(newSub)
-    newSub.className = "pagina"
-    newSub.innerHTML = `<strong> Pág: ${pagina}</strong>`
+}
+crearpalabradeldia()
+function crearpalabradeldia(){
+    let myString=localStorage.getItem("palabradeldia");
+    let palabradeldia
+    const date=getDate()
+    if (myString==null){
+        palabradeldia=getrandomword()
     }else{
-    contenido.remove()
-    contenido = null
-    palabraelemento.style.borderColor = "black"
-    titulo.innerHTML=`<strong>${palabra}: +</strong>`
+    myString=myString.split("+")
+    const oldWord=myString[0]
+    const oldDate=myString[1].split(",")
+    
+    if(oldDate[0]!=date[0]||oldDate[1]!=date[1]||oldDate[2]!=date[2]){
+        palabradeldia=getrandomword()
+    }else{
+        palabradeldia=oldWord
     }
     }
+    palabradeldiaelemento.innerHTML=`Palabra del dia: <mark>${palabradeldia}</mark>`
+    localStorage.setItem("palabradeldia",[palabradeldia,date].join("+"))
+    function getrandomword(){
+        const randomint=getrandomint(0,listadepalabras.length+1)
+        let random
+        if (randomint==listadepalabras.length+1){
+        random="Masito"
+        }else{
+        random=listadepalabras[randomint][0]
+        }
+        if (random==""){
+            return getrandomword()
+        }
+        return random
+    }
+}
+function getDate(){
+    const newDate=new Date()
+    const day=newDate.getDate()
+    const month=newDate.getMonth()+1
+    const year=newDate.getFullYear()
+    return [day,month,year]
+}
+function getrandomint(min,max){
+    return Math.floor(Math.random()*(max - min + 1)) + min
 }
