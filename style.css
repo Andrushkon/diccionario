@@ -6,12 +6,18 @@ h1{
     text-align: center;
     font-family: "Winky Ssns",Arial, Helvetica, sans-serif;
 }
+h2{
+    font-size: 30px;
+}
 .palabra{
     margin-top: 30px;
     margin-bottom: 30px;
     background-color: beige;
     border: black 3px solid;
     box-shadow: 2px 2px 5px black;
+}
+.palabra:hover{
+    border-color: blue;
 }
 .wordtitle{
     font-size: 30px;
@@ -44,4 +50,12 @@ img{
 @keyframes MostrarContenido{
     0%{opacity: 0}
     100%{opacity: 1;}
+}
+#portada{
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    display: block;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px black;
 }
